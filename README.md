@@ -1,2 +1,10 @@
-# rishabhtech
-my first GitHub repository to learn coding and projects 
+# Guess The Number Game 🎮
+
+My first Python project on GitHub.
+
+## Run
+python game.py
+
+## Language
+Python
+
